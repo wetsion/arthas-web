@@ -1,6 +1,6 @@
 import {Terminal} from 'xterm'
-var ws;
 
+var ws;
 var xterm;
 
 export function initWs (ip, port) {
