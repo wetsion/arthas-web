@@ -1,29 +1,25 @@
 # arthas-web
 
-## Project setup
+>  `Arthas` 的 改造版的web console，使用 `xterm.js` 替换旧版的`term.js`，支持了Ctrl+V
+操作，支持全屏
+
+  
+
+之后的版本考虑支持多tab页多连接
+
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+####  production
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
