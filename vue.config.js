@@ -1,5 +1,6 @@
 module.exports = {
 	baseUrl: '/',
 	outputDir: 'dist',
-	filenameHashing: false
+	filenameHashing: false,
+	productionSourceMap: false
 }
